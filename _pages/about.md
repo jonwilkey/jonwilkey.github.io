@@ -15,7 +15,7 @@ feature_row:
     excerpt: "Analysis on the breakeven price of ex situ oil shale production ([repository](https://github.com/jonwilkey/ex_situ_oil_shale))"
 ---
 
-I am a data scientist and chemical engineer. In the past my research has focused on the process design, engineering economics, air pollution, and modeling oil and gas production methods. Currently, I'm working as a Senior Applied Scientist for Amazon Web Services's Network Capacity Data Science team. Our team aggregates network usage metrics, forecasts future supply and demand metrics, and owns planning network growth.
+I am a data scientist and chemical engineer. In the past my research has focused on the process design, engineering economics, air pollution, and modeling oil and gas production methods. Currently, I'm working as a Senior Applied Scientist for Amazon Web Services Network Capacity Data Science team. Our team aggregates network usage metrics, forecasts future supply and demand metrics, and owns planning network growth.
 
 ### Interests
 * Data Science
